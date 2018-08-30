@@ -1,2 +1,2 @@
 # Data-Science-Course
-This repository contains assignments, jupyter notebooks, quizes and exams for data science course.
+The repository contains lectures, homeworks, jupyter notebooks, quizes and exams for course.
