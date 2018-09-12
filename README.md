@@ -2,7 +2,7 @@
 
 **This repository contains lectures, homeworks, labs, quizes and exams for the course.**
 
-![Data Science](https://github.com/FaizSaeed/Data-Science-Course/blob/master/img/data.png)
+![Data Science](https://github.com/FaizSaeed/Data-Science-Course/blob/master/img/DATA-SCIENCE.jpg)
 
 Data science is an interdisciplinary field that uses scientific methods, processes, algorithms and systems to extract knowledge and insights from data in various forms, both structured and unstructured[1]. This course introduces methods for four key aspects of data science: 
 * Data acquiring
