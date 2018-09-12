@@ -1,6 +1,6 @@
 ## Data Science Fall 2018
 
-The repository contains lectures, homeworks, jupyter notebooks, quizes and exams for course.
+**This repository contains lectures, homeworks, jupyter notebooks, quizes and exams for course.**
 
 Data science is an interdisciplinary field that uses scientific methods, processes, algorithms and systems to extract knowledge and insights from data in various forms, both structured and unstructured[1]. This course introduces methods for four key aspects of data science: 
 * Data acquiring
