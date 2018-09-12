@@ -15,7 +15,7 @@ So, if you are a student in, for example, Computer Science, Electrical Engineeri
 This is an **advanced** course: we will introduce both programming concepts and the necessary mathematics.<br>
 We expect you to have background in python programming and math. 
 
-Their is no formal pre-requisite for the course because we expect a class of Graduate Engineers having the required skills.
+Their is no formal pre-requisite for the course because we are expecting a class of Graduate Engineers that are already acquainted with the right skills for the course.
 
 ### How do I enroll In This Class?
 
