@@ -1,6 +1,6 @@
 # Data Science Fall 2018
 
-(https://github.com/FaizSaeed/Data-Science-Course/tree/master/Temp/data.png)
+![alt text](https://github.com/FaizSaeed/Data-Science-Course/tree/master/Temp/data.png)
 
 The repository contains lectures, homeworks, jupyter notebooks, quizes and exams for course.
 
