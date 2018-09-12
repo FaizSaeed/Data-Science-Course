@@ -10,7 +10,7 @@ Data science is an interdisciplinary field that uses scientific methods, process
 
 ### Is this course for me?
 This course is designed for **graduates** from various fields.<br> 
-So, if you are a student in, for example, Computer Science, Electrical Engineering, Mechatronics, Telecom EngineeringSocial Sciences, Business,  etc., and want to learn some computational and quantitative skills to be successful in your field as it transforms in an age increasingly dominated by data and computation, this course might be for you!
+So, if you are a student in, for example, Computer Science, Electrical Engineering, Mechatronics, Telecom Engineering, Social Sciences, Business,  etc., and want to learn some computational and quantitative skills to be successful in your field as it transforms in an age increasingly dominated by data and computation, this course might be for you!
 
 This is an **advanced** course: we will introduce both programming concepts and the necessary mathematics.<br>
 We expect you to have background in python programming and math. 
