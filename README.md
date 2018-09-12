@@ -6,7 +6,7 @@ ITU students can join the classroom using the **code: 9a8733a**
 
 ## Instructors
 
-<a href="hello"></a>Faisal Kamiran, Computer Science<br>
+[Faisal Kamiran](https://itu.edu.pk/faculty-itu/dr-faisal-kamiran/), Computer Science<br>
 E-mail: faisal.kamiran@itu.edu.pk
 
 ## Teaching Assistants
