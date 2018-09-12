@@ -1,4 +1,4 @@
-# Data-Science-Course
+# Data Science Fall 2018
 The repository contains lectures, homeworks, jupyter notebooks, quizes and exams for course.
 
 Course updates, announcements and submissions are to be made on **Google Classroom**.<br> 
