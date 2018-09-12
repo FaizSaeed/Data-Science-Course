@@ -7,7 +7,7 @@ ITU students can join the classroom using the **code: 9a8733a**
 ## Instructors
 
 [Faisal Kamiran](https://itu.edu.pk/faculty-itu/dr-faisal-kamiran/)<br>
-Director, Data Science Lab<br>
+Director, Data Science Lab, ITU<br>
 E-mail: faisal.kamiran@itu.edu.pk
 
 ## Teaching Assistants
