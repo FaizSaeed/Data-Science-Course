@@ -2,6 +2,15 @@
 
 The repository contains lectures, homeworks, jupyter notebooks, quizes and exams for course.
 
+### Is this course for me?
+This course is designed for both graduates from various fields. 
+So, if you are a student in, for example, Computer Science, Electrical Engineering, Social Sciences, Business, Mechatronics, Telecom Engineering etc., and want to learn some computational and quantitative skills to be successful in your field as it transforms in an age increasingly dominated by data and computation, this course might be for you!
+
+This is an advanced course: we will introduce both programming concepts and the necessary mathematics.<br>
+We expect you to have background in programming and math. 
+
+Their is no formal pre-requisite for the course because we expect a class of Graduate Engineers having the required skills.
+
 ### How do I enroll In This Class?
 
 ITU students can enroll for the course by contacting the academics office.<br>
