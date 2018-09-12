@@ -29,4 +29,4 @@ The class meets Tuesday, 05:30 PM-07:00 PM in LT-5 and Thursday, 07:15 PM-08:45 
 TA office hours: Tuesday and Thursday, 05:30-08:30 PM, Data Science Lab<br>
 Dr. Faisal office hours: Wednesday, 4:00 - 6:00 PM, Data Science Lab<br>
 
-**Online discussion, submissions, grades, etc:** We use **Google Classroom** for discussions and questions.
+**Online discussion, submissions, grades, etc:** We use Google Classroom for discussions and questions.
