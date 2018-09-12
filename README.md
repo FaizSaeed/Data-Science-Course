@@ -2,7 +2,7 @@
 
 The repository contains lectures, homeworks, jupyter notebooks, quizes and exams for course.
 
-## How do I enroll In This Class?
+### How do I enroll In This Class?
 
 ITU students can enroll for the course by contacting the academics office.<br>
 
