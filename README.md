@@ -22,7 +22,7 @@ Umair Majeed
 
 The class meets Tuesday, 05:30 PM-07:00 PM in LT-5 and Thursday, 07:15 PM-08:45 PM in Lab.
 
-**Lectures** are used to introduce theoretical concepts. 
+**Lectures** are used to introduce theoretical concepts.<br> 
 **Labs** are used to teach coding skills and revisit the concepts introduced in lectures in practical terms. We will typically run coding exercises in the lab. Please bring your laptop computer!
 
 **Office Hours:** 
