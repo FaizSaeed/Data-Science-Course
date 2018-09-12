@@ -2,6 +2,12 @@
 
 The repository contains lectures, homeworks, jupyter notebooks, quizes and exams for course.
 
+Data science is an interdisciplinary field that uses scientific methods, processes, algorithms and systems to extract knowledge and insights from data in various forms, both structured and unstructured[1]. This course introduces methods for four key aspects of data science: 
+* Data acquiring
+* Data preprocessing
+* Exploratory Data Analysis
+* Data Modelling
+
 ### Is this course for me?
 This course is designed for **graduates** from various fields.<br> 
 So, if you are a student in, for example, Computer Science, Electrical Engineering, Mechatronics, Telecom EngineeringSocial Sciences, Business,  etc., and want to learn some computational and quantitative skills to be successful in your field as it transforms in an age increasingly dominated by data and computation, this course might be for you!
@@ -39,3 +45,5 @@ TA office hours: Tuesday and Thursday, 05:30-08:30 PM, Data Science Lab<br>
 Dr. Faisal office hours: Wednesday, 4:00 - 6:00 PM, Data Science Lab<br>
 
 **Online discussion, submissions, grades, etc:** We use Google Classroom for discussions and questions.
+
+[1] https://en.wikipedia.org/wiki/Data_science
