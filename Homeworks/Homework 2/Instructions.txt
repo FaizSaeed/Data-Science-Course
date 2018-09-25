@@ -3,3 +3,5 @@
 2. Complete the notebook "Intro To Data Science.ipynb"
 
 3. Submit the complete folder with it's name as your registration number "MSDS18###.zip" on Google Classroom.
+
+Note: There might be some rendering issue if you open this notebook in github. I would recommend to first download the folder and then proceed.
